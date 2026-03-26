@@ -1,9 +1,8 @@
-![Somanshu Srivastava Banner](banner.png)
-
 
 <p align="center">
   <img src="banner.png" alt="Somanshu Srivastava Banner" width="100%">
 </p>
+
 ### 📫 Let's Connect!
 - 💼 [LinkedIn](https://linkedin.com/in/somanshu-srivastava-362880217)
 - 📧 [Email](mailto:srivastavasomanshu856@gmail.com)
